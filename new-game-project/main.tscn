@@ -20,7 +20,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0)
 environment = SubResource("Environment_0xm2m")
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1730909906]
-transform = Transform3D(-0.23035589, -0.92259276, -0.30944917, 0.53894705, -0.38573292, 0.7488299, -0.8102298, 0.0057206815, 0.5860845, -9.9, 18.2, 22.8)
+transform = Transform3D(0.53894705, -0.38573286, 0.7488299, -0.6825807, 0.3209211, 0.6565771, -0.49357867, -0.864997, -0.09033431, 3.9000006, 7.0000005, 0.29999924)
 shadow_enabled = true
 
 [node name="CSGCombiner3D" type="CSGCombiner3D" parent="." unique_id=1823730048]
